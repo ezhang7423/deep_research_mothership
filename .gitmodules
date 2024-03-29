@@ -1,0 +1,12 @@
+[submodule "nanoGPT"]
+	path = nanoGPT
+	url = git@github.com:ezhang7423/nanoGPT.git
+[submodule "eztils"]
+	path = eztils
+	url = git@github.com:ezhang7423/eztils.git
+[submodule "research_project"]
+	path = research_project
+	url = git@github.com:ezhang7423/research_project.git
+[submodule "eztransformer"]
+	path = eztransformer
+	url = git@github.com:ezhang7423/eztransformer.git
