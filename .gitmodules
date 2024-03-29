@@ -7,3 +7,6 @@
 [submodule "eztransformer"]
 	path = eztransformer
 	url = git@github.com:ezhang7423/eztransformer.git
+[submodule "research_project_2"]
+	path = research_project_2
+	url = ./research_project_2
